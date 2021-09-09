@@ -27,11 +27,11 @@ Here are some ideas to get you started:
   src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
   
   <img height="25" align="left" alt="drupal"
-  src="https://github.com/devicons/devicon/blob/master/icons/git/drupal-original.svg" />
+  src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" />
   
   <img height="25" align="left" alt="wordpress"
-  src="https://github.com/devicons/devicon/blob/master/icons/git/wordpress-original.svg" />
+  src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" />
 
    <img height="25" align="left" alt="figma"
-  src="https://github.com/devicons/devicon/blob/master/icons/git/figma-original.svg" />
+  src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
   
