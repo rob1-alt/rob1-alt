@@ -1,12 +1,12 @@
 ### Bonjour 👋, Je suis Robin 
 
 - 👨‍💼 Je développe une base de données pour mon client actuel
-- 🌱 Actuellement en cours de création de mon Portfolio 2021 (🚧 https://robinpautigny.co)
+- 🌱 En cours de création de mon Portfolio 2021 (🚧 https://robinpautigny.co)
 - 🚀 Vivement à la recherche d'un stage en tant que <b>Chef de projet digital</b> d'une durée de 4 mois à partir du <font color="red"> 25 avril</font>
 
 #### Me contacter : 
-- [Linkedin](https://www.linkedin.com/in/robin-pautigny/)<target="_blank"> ou par [mail](mailto:robin.pautigny@hetic.net)
-
+- [Linkedin](https://www.linkedin.com/in/robin-pautigny/) ou par [mail](mailto:robin.pautigny@hetic.net)
+- <a href="https://www.linkedin.com/in/robin-pautigny/" target="_blank"</a>
 
 #### Some stuff i used
 <img height="30" align="left" alt="javascript"
