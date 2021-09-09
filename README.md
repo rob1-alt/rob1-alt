@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 - 👨‍💼 Je développe une base de données pour mon client actuel
 - 🌱 Je suis actuellement en train de travailler à la création de mon Portfolio 2021 (🚧 https://robinpautigny.co)
-- 🚀 Actuellement à la recherche d'un projet en tant que <br>Chef de projet digital</br>
+- 🚀 Actuellement à la recherche d'un stage en tant que <brChef de projet digital</b> d'une durée de 4 mois à partir du <style color: red;>25 avril</style>
 
 #### Some stuff i used
 <img height="25" align="left" alt="javascript"
@@ -34,4 +34,10 @@ Here are some ideas to get you started:
 
    <img height="25" align="left" alt="figma"
   src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+  
+   <img height="25" align="left" alt="python"
+  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+  
+   <img height="25" align="left" alt="php"
+  src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
   
