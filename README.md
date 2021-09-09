@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👨‍💼 Je développe une base de données pour mon client actuel
-- 🌱 Je suis actuellement en train de travailler à la création de mon Portfolio 2021 (🚧 robinpautigny.co)
-- 
+- 🌱 Je suis actuellement en train de travailler à la création de mon Portfolio 2021 (🚧 https://robinpautigny.co)
+- 🚀 Actuellement à la recherche d'un projet en tant que #### Chef de projet digital
 
 #### Some stuff i used
 <img height="25" align="left" alt="javascript"
