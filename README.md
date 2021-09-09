@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 - 👨‍💼 Je développe une base de données pour mon client actuel
 - 🌱 Je suis actuellement en train de travailler à la création de mon Portfolio 2021 (🚧 https://robinpautigny.co)
-- 🚀 Actuellement à la recherche d'un stage en tant que <b>Chef de projet digital</b> d'une durée de 4 mois à partir du <font color="FF0000"> 25 avril</font>
+- 🚀 Actuellement à la recherche d'un stage en tant que <b>Chef de projet digital</b> d'une durée de 4 mois à partir du <font color="red"> 25 avril</font>
 
 #### Some stuff i used
 <img height="30" align="left" alt="javascript"
