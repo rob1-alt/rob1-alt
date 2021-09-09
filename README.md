@@ -12,8 +12,8 @@ Here are some ideas to get you started:
  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👨‍💼 Je développe une base de données pour mon client actuel
-🌱 Je suis actuellement en train de travailler à la création de mon Portfolio 2021 (🚧 robinpautigny.co)
+- 👨‍💼 Je développe une base de données pour mon client actuel
+- 🌱 Je suis actuellement en train de travailler à la création de mon Portfolio 2021 (🚧 robinpautigny.co)
 
 #### Some stuff i used
 <img height="25" align="left" alt="javascript"
