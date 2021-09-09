@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 - 👨‍💼 Je développe une base de données pour mon client actuel
 - 🌱 Je suis actuellement en train de travailler à la création de mon Portfolio 2021 (🚧 https://robinpautigny.co)
-- 🚀 Actuellement à la recherche d'un projet en tant que #### Chef de projet digital
+- 🚀 Actuellement à la recherche d'un projet en tant que <br>Chef de projet digital</br>
 
 #### Some stuff i used
 <img height="25" align="left" alt="javascript"
