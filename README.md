@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 - 👨‍💼 Je développe une base de données pour mon client actuel
 - 🌱 Je suis actuellement en train de travailler à la création de mon Portfolio 2021 (🚧 robinpautigny.co)
+- 
 
 #### Some stuff i used
 <img height="25" align="left" alt="javascript"
@@ -24,3 +25,13 @@ Here are some ideas to get you started:
   
   <img height="25" align="left" alt="git"
   src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
+  
+  <img height="25" align="left" alt="drupal"
+  src="https://github.com/devicons/devicon/blob/master/icons/git/drupal-original.svg" />
+  
+  <img height="25" align="left" alt="wordpress"
+  src="https://github.com/devicons/devicon/blob/master/icons/git/wordpress-original.svg" />
+
+   <img height="25" align="left" alt="figma"
+  src="https://github.com/devicons/devicon/blob/master/icons/git/figma-original.svg" />
+  
