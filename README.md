@@ -36,5 +36,5 @@
   src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
   
    <img height="30" align="left" alt="npm"
-  src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark" />
+  src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
   
