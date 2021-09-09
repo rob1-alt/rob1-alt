@@ -1,7 +1,7 @@
 ### Bonjour 👋, Je suis Robin 
 
 - 👨‍💼 Je développe une base de données pour mon client actuel
-- 🌱 Actuellement en train de travailler à la création de mon Portfolio 2021 (🚧 https://robinpautigny.co)
+- 🌱 Actuellement en cours de création de mon Portfolio 2021 (🚧 https://robinpautigny.co)
 - 🚀 Vivement à la recherche d'un stage en tant que <b>Chef de projet digital</b> d'une durée de 4 mois à partir du <font color="red"> 25 avril</font>
 
 #### Me contacter : 
