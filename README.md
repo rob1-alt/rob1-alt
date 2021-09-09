@@ -5,7 +5,7 @@
 - 🚀 Vivement à la recherche d'un stage en tant que <b>Chef de projet digital</b> d'une durée de 4 mois à partir du <font color="red"> 25 avril</font>
 
 #### Me contacter : 
-- [Linkedin](https://www.linkedin.com/in/robin-pautigny/) ou par [mail](mailto:robin.pautigny@hetic.net)
+- [Linkedin]target="_blank"(https://www.linkedin.com/in/robin-pautigny/) ou par [mail](mailto:robin.pautigny@hetic.net)
 
 
 #### Some stuff i used
