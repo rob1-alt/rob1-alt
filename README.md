@@ -6,7 +6,6 @@
 
 #### Me contacter : 
 - [Linkedin](https://www.linkedin.com/in/robin-pautigny/) ou par [mail](mailto:robin.pautigny@hetic.net)
-- <a href="https://www.linkedin.com/in/robin-pautigny/" target="_blank"</a>
 
 #### Some stuff i used
 <img height="30" align="left" alt="javascript"
