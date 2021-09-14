@@ -42,4 +42,4 @@
   src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line.svg" />
   
    <img height="30" align="left" alt="mysql"
-  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg.svg" />
+  src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
