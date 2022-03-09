@@ -1,8 +1,6 @@
 ### Bonjour 👋, Je suis Robin 
 
-- 👨‍💼 Stage fini, de retour à l'école 
 - 🌱 https://robinpautigny.co
-- 🚀 Vivement à la recherche d'un stage en tant que <b>Chef de projet digital</b> d'une durée de 4 mois à partir du <font color="red"> 25 avril</font>
 
 #### Me contacter : 
 - [Linkedin](https://www.linkedin.com/in/robin-pautigny/) ou par [Mail](mailto:robin.pautigny@hetic.net)
